@@ -7,3 +7,9 @@
 ```bash
 pytest --language=es test_items.py
 ```
+
+## Быстро развернуть окружение
+
+```bash
+pip install -r requirements.txt
+```
